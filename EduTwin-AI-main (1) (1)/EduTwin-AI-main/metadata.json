@@ -1,8 +1,0 @@
-{
-  "name": "EduTwin AI — Personalized Campus Domain Recommendation Engine",
-  "description": "Intelligent campus matchmaking system transforming student DNA into personalized domain recommendations, connecting students with clubs, events, faculty mentors, labs, peers, and curated learning pathways.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
